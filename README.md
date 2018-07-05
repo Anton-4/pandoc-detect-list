@@ -15,6 +15,7 @@ To apply the filter, use the following option with pandoc:
 Installation
 ------------
 
-Clone the repository, navigate to folder and run:
+Clone the repository, navigate to folder and run:  
+
     pip install .
 
